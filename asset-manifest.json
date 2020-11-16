@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/crud/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/crud/static/js/main.5abd03ed.chunk.js",
+    "main.js.map": "/crud/static/js/main.5abd03ed.chunk.js.map",
+    "runtime-main.js": "/crud/static/js/runtime-main.0a21e889.js",
+    "runtime-main.js.map": "/crud/static/js/runtime-main.0a21e889.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/crud/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3d19755c.chunk.js": "/crud/static/js/2.3d19755c.chunk.js",
+    "static/js/2.3d19755c.chunk.js.map": "/crud/static/js/2.3d19755c.chunk.js.map",
+    "static/js/3.6a1d6653.chunk.js": "/crud/static/js/3.6a1d6653.chunk.js",
+    "static/js/3.6a1d6653.chunk.js.map": "/crud/static/js/3.6a1d6653.chunk.js.map",
+    "index.html": "/crud/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/crud/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/crud/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3d19755c.chunk.js.LICENSE.txt": "/crud/static/js/2.3d19755c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/crud/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a21e889.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3d19755c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5abd03ed.chunk.js"
+  ]
+}
